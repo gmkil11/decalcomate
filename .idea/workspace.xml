@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2d779c98-123a-49a3-afe1-9c2db7269608" name="변경" comment="셋리스트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/background.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/papertexture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setlist.jpeg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1722075647193</updated>
       <workItem from="1722075648191" duration="6209000" />
-      <workItem from="1722263325670" duration="1148000" />
+      <workItem from="1722263325670" duration="1778000" />
+      <workItem from="1722772260124" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="셋리스트">
       <option name="closed" value="true" />
@@ -74,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722263363071</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="셋리스트">
+      <option name="closed" value="true" />
+      <created>1722268170731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722268170731</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
